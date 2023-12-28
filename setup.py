@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="connect_spotify",
-    version="1.1.6",
+    version="1.1.7",
     description="Connect to Spotify API with Streamlit",
     packages=find_packages(),
     include_package_data=True,
